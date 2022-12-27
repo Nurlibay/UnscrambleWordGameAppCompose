@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UnscrambleAppCompose</string>
+    <string name="word_count">%d of 10 words</string>
+    <string name="score">Score: %d</string>
+    <string name="instructions">Unscramble the word using all the letters.</string>
+    <string name="enter_your_word">Enter your word</string>
+    <string name="skip">Skip</string>
+    <string name="submit">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="your_scored">Score: %d</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="wrong_guess">Wrong Guess!</string>
+</resources>
