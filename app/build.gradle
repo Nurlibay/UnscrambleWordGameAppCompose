@@ -62,4 +62,7 @@ dependencies {
 
     /** view model */
     implementation "androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1"
+
+    /** test */
+    testImplementation 'junit:junit:4.13.2'
 }
